@@ -4,7 +4,7 @@ export default function About() {
         {/* Image Container */}
         <div className="flex justify-center">
           <img
-            src="assets/me.jpeg"
+            src="assets/me.jpg"
             alt="Ben"
             className="max-w-full h-auto rounded-full object-cover"
           />

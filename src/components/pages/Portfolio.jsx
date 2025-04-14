@@ -20,6 +20,12 @@ export default function Portfolio() {
       liveLink: "",
       repoLink: "https://github.com/MsPickles1014/CoolCademy",
     },
+    {
+      title: "PhotoTrace",
+      img: "assets/phototrace.png",
+      liveLink: "https://photo-trace-client.onrender.com/",
+      repoLink: "https://github.com/bryanesslinger/Photo_Trace_Client",
+    },
   ];
 
   return (
