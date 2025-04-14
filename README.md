@@ -4,7 +4,7 @@ Welcome to my **personal portfolio**, built using **React** and **Vite**! This p
 
 ## 📌 Live Demo
 
-🔗 [View My Portfolio](https://marvelous-seahorse-1dd648.netlify.app/)
+🔗 [View My Portfolio](https://bencook.netlify.app/)
 
 ## 🛠️ Tech Stack
 
