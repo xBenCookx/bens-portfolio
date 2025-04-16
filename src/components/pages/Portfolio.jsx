@@ -11,13 +11,13 @@ export default function Portfolio() {
     {
       title: "ColorCoder",
       img: "assets/color.png",
-      liveLink: "",
+      liveLink: "https://xbencookx.github.io/colorcoder/",
       repoLink: "https://github.com/xBenCookx/colorcoder",
     },
     {
       title: "CoolCademy",
       img: "assets/cool.png",
-      liveLink: "",
+      liveLink: "https://mspickles1014.github.io/CoolCademy/",
       repoLink: "https://github.com/MsPickles1014/CoolCademy",
     },
     {
