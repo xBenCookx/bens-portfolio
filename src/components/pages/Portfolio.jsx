@@ -29,15 +29,15 @@ export default function Portfolio() {
   ];
 
   return (
-    <section className="p-8 md:p-12 bg-white shadow-lg rounded-2xl">
-      <h2 className="text-3xl md:text-4xl text-center font-semibold text-gray-800 mb-8">
+    <section className="p-8 md:p-16 bg-gradient-to-br from-white to-gray-50">
+      <h2 className="text-4xl md:text-5xl text-center font-bold text-gray-800 mb-12">
         My Projects
       </h2>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-12 max-w-7xl mx-auto">
         {projects.map((project) => (
           <div
             key={project.title}
-            className="w-full h-80 flex flex-col justify-between bg-white shadow-lg rounded-2xl overflow-hidden transform transition duration-300 hover:scale-105"
+            className="w-full flex flex-col justify-between"
           >
             <Project
               title={project.title}
