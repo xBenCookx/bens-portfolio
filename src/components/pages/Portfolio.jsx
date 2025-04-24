@@ -15,12 +15,6 @@ export default function Portfolio() {
       repoLink: "https://github.com/xBenCookx/colorcoder",
     },
     {
-      title: "CoolCademy",
-      img: "assets/cool.png",
-      liveLink: "https://mspickles1014.github.io/CoolCademy/",
-      repoLink: "https://github.com/MsPickles1014/CoolCademy",
-    },
-    {
       title: "PhotoTrace",
       img: "assets/phototrace.png",
       liveLink: "https://photo-trace-client.onrender.com/",
