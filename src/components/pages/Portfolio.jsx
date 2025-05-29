@@ -5,7 +5,7 @@ export default function Portfolio() {
     {
       title: "G.I.T.",
       img: "assets/git.png",
-      liveLink: "http://georgiait.net/",
+      liveLink: "https://gitsite-ea55.onrender.com",
       repoLink: "https://github.com/xBenCookx/gitsite",
     },
     {
